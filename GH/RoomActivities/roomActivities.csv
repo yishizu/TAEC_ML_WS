@@ -1,0 +1,31 @@
+Length,Width,Height,AirConditioning,Activity
+Medium,Small,Small,Medium,Yoga
+Small,Very Small,Small,Low,Yoga
+Large,Medium,Medium,High,Yoga
+Medium,Medium,Medium,High,Dance
+Large,Large,Large,Very High,Dance
+Small,Medium,Medium,Medium,Dance
+Medium,Small,Small,Very High,Gymnastics
+Large,Medium,Medium,High,Gymnastics
+Small,Small,Small,Low,Gymnastics
+Very Large,Large,Large,Low,Meeting
+Medium,Medium,Medium,Medium,Meeting
+Small,Small,Small,Very Low,Meeting
+Small,Small,Small,Very Low,Study
+Medium,Medium,Medium,Low,Study
+Large,Large,Large,Medium,Study
+Small,Small,Small,Medium,Workshop
+Medium,Medium,Medium,High,Workshop
+Large,Large,Large,Very High,Workshop
+Large,Large,Medium,High,Theater
+Medium,Medium,Medium,Medium,Theater
+Small,Small,Small,Low,Theater
+Large,Medium,Medium,Very High,Meditation
+Medium,Medium,Medium,High,Meditation
+Small,Small,Small,Medium,Meditation
+Very Large,Very Large,Large,Low,Conference
+Medium,Large,Large,Medium,Conference
+Small,Medium,Medium,High,Conference
+Small,Small,Small,Very Low,Reading
+Medium,Medium,Medium,Low,Reading
+Large,Large,Large,High,Reading
